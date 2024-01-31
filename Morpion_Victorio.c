@@ -6,9 +6,6 @@ Problèmes : Affichage de la case jouée  ou des cases gagnantes en couleur apr�
 Bonne lecture
 */
 
-Projet achevé le 01/01/2023
-Auteur : Victorio NASCIMENTO
-
 
 #include <stdio.h>
 #include <stdlib.h>
