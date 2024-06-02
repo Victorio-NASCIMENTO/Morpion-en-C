@@ -54,7 +54,7 @@ void show(Jeu J) //Pour afficher la grille de jeu
     Donc, il faut sauter beaucoup de lignes pour que l'utilisateur ne voit pas 
     la ou les précédentes grilles.*/
     
-     if(J.nbre_tours!=0)   printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+     if(J.nbre_tours!=0)   printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
      if(J.gagnant==0 || J.gagnant==3) //Si on ne connait pas encore le gagnant ou s'il y a égalité
      {
     for(int i=0; i<4; i++)
